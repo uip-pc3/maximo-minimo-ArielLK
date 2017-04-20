@@ -1,0 +1,21 @@
+app package
+===========
+
+Module contents
+---------------
+
+app\.maxmin module
+------------------
+
+.. automodule:: maxmin
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+app\.maxminTestCase module
+--------------------------
+
+.. automodule:: maxminTestCase
+    :members:
+    :undoc-members:
+    :show-inheritance:
